@@ -60,7 +60,7 @@ The final dashboard summarizes the key insights and visualizations from the anal
 
 ---
 
-## 📎 Files
+## Files
 
 - `Amazon_Review_Analysis` – Full workbook with data cleaning, pivot tables, and dashboard
 - `dashboard_screenshot.png` – Dashboard preview 
@@ -84,9 +84,33 @@ This project explores sales and operational data for Kultra Mega Stores (KMS), a
 
 ---
 
-## 📁 Project Structure
+## Analysis Task
 
+### Case Scenario I
+1. Which product category had the highest sales?  
+2. What are the Top 3 and Bottom 3 regions in terms of sales?  
+3. What were the total sales of appliances in Ontario?  
+4. How can KMS increase revenue from the bottom 10 customers?  
+5. Which shipping method incurred the highest cost?
 
+### Case Scenario II
+6. Who are the most valuable customers, and what do they typically purchase?  
+7. Which small business customer had the highest sales?  
+8. Which corporate customer placed the most orders?  
+9. Which consumer customer was the most profitable?  
+10. Which customer returned items, and what segment do they belong to?  
+11. Was shipping cost aligned with order priority?
 
+---
+
+## Insight & Recommendations
+
+- Customer re-engagement to boost revenue from low-performing customers  
+- Align shipping methods with order urgency to optimize cost  
+- Use sales trends to improve targeting and marketing efforts
+
+---
+## File
+`DSA SQL PROJECT QUERY`
 
 
