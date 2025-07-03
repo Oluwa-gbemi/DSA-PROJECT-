@@ -69,3 +69,24 @@ The final dashboard summarizes the key insights and visualizations from the anal
 
 
 
+# KMS SQL Case Study – Business Intelligence Report (2009–2012)
+
+## Project Overview
+
+This project explores sales and operational data for Kultra Mega Stores (KMS), a Lagos-based company that supplies office furniture and equipment. As a Business Intelligence Analyst supporting the Abuja division, I used SQL to analyze customer orders and shipping activity between 2009 and 2012. The goal was to uncover insights that would help management improve customer engagement, boost revenue, and reduce operational costs.
+
+---
+
+
+## Tool Used
+**SQL Server Management Studio (SSMS)**
+- Objective: Answer key business questions using SQL, provide actionable recommendations to management.
+
+---
+
+## 📁 Project Structure
+
+
+
+
+
