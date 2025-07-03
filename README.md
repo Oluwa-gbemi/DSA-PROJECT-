@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project was carried out as part of a case study at RetailTech Insights. It involves analyzing Amazon product review data using Microsoft Excel to generate insights that support product improvement, marketing strategies, and customer engagement.
+This project was completed as part of the learning requirements in the Data Analytics track at Digital Skillup Africa (DSA). The goal was to perform an end-to-end analysis on a dataset containing product and customer review information from Amazon. The task involved cleaning raw data, deriving insights using Microsoft Excel calculations and pivot tables, and presenting the findings in a structured, interactive Excel dashboard. 
 
 ---
 
@@ -47,7 +47,7 @@ The final dashboard summarizes the key insights and visualizations from the anal
 - Cards (KPIs)
 - Bar and Column Charts
 - Pie Chart (for rating distribution)
-- Slicers for filtering by category or price range
+- Slicers for filtering by category
 
 ---
 
