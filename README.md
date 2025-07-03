@@ -62,8 +62,12 @@ The final dashboard summarizes the key insights and visualizations from the anal
 
 ## Files
 
-- `Amazon_Review_Analysis` – Full workbook with data cleaning, pivot tables, and dashboard
+- `Amazon_Review_Analysis.xlsx` – Full workbook with data cleaning, pivot tables, and dashboard
 - `dashboard_screenshot.png` – Dashboard preview 
+
+## Dashboard
+![Excel Dashboard](dashboard_screenshot.png)
+
 
 ---
 
@@ -225,6 +229,6 @@ Insight:
 
 ---
 ## File
-`DSA SQL PROJECT QUERY`
+`DSA SQL PROJECT QUERY.sql`
 
 
