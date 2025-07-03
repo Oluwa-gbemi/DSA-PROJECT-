@@ -1,10 +1,10 @@
 # DSA-PROJECT-
+This repository showcases two comprehensive analytics projects developed as part of the Digital Skillup Africa (DSA) program. Each project applies core data analytics techniques to practical business cases, utilizing tools such as Microsoft Excel and SQL Server.
 
 # Amazon Product Review Analysis
 
 ## Project Overview
-
-This project was completed as part of the learning requirements in the Data Analytics track at Digital Skillup Africa (DSA). The goal was to perform an end-to-end analysis on a dataset containing product and customer review information from Amazon. The task involved cleaning raw data, deriving insights using Microsoft Excel calculations and pivot tables, and presenting the findings in a structured, interactive Excel dashboard. 
+The goal of this analysis is to perform an end-to-end analysis on a dataset containing product and customer review information from Amazon. The task involved cleaning raw data, deriving insights using Microsoft Excel calculations and pivot tables, and presenting the findings in a structured, interactive Excel dashboard. 
 
 ---
 
@@ -102,8 +102,8 @@ The final dashboard summarizes the key insights and visualizations from the anal
 
 ## Files
 
-- `Amazon_Review_Analysis.xlsx` – Full workbook with data cleaning, pivot tables, and dashboard
-- `dashboard_screenshot.png` – Dashboard preview 
+- [Amazon_Review_Analysis.xlsx](./Amazon_Review_Analysis.xlsx) – Full workbook with data cleaning, pivot tables, and dashboard
+- [dashboard_screenshot.png](./–dashboard_screenshot.png) Dashboard preview 
 
 ## Dashboard
 ![Excel Dashboard](dashboard_screenshot.png)
@@ -269,6 +269,7 @@ Insight:
 
 ---
 ## File
-`DSA SQL PROJECT QUERY.sql`
+[DSA SQL PROJECT QUERY.sql](./DSA_SQL_PROJECT_QUERY.sql)
+
 
 
